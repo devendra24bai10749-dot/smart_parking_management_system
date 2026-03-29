@@ -90,5 +90,3 @@ Exit
 - Minimum charge: ₹20  
 - ₹20 per hour  
 - Less than 1 hour = ₹20 fixed
-## Conclusion
-This project demonstrates how a real-world parking system can be efficiently implemented using Python and SQLite with clean modular design.
